@@ -1,4 +1,4 @@
-#revoke gpt,claude api tokens    
-#revoke hf token     
+# revoke gpt,claude api tokens    
+# revoke hf token     
      
-#before making repo public     
+# before making repo public     
