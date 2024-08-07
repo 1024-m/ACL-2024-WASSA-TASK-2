@@ -15,8 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=3000&random=false&width=435&height=32&lines=%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B;%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B;%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B)](https://www.rkadiyala.com)         
     
 ## System Overview :    
-![System-Overview-EXALT](https://github.com/1024-m/ACL-2024-WASSA-EXALT/assets/121771351/ea8bdbb2-cab3-477b-9717-1c0e047a8853)           
+![System-Overview-EXALT](https://github.com/1024-m/ACL-2024-WASSA-EXALT/assets/121771351/ea8bdbb2-cab3-477b-9717-1c0e047a8853)     
+Each LLM might have different levels of effectives over each langauge/domain. The proposed ensemble approach utilizes the strenghts on each model on each of the languages. 
 ## Results :     
 ![image](https://github.com/1024-m/EXALT-ACL-2024/assets/121771351/b5ad0c1b-686c-4ab2-9b4e-5dffa01207cd)      
-## Each individual model flowchart :     
-![Prompt](https://github.com/1024-m/ACL-2024-WASSA-EXALT/assets/121771351/ba2f39b8-9e7c-4c2b-a0ce-f1a1f3cbabec)  
