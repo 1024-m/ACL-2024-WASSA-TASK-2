@@ -1,4 +1,4 @@
-### Finished 1st out of 70 teams :)  Will be back again in 2025 :)
+### Finished 1st out of 72 teams :)  Will be back again in 2025 :)
 - a repeat of wassa 23 - https://github.com/1024-m/ACL-2023-WASSA-EMO
 ### Models availible @ https://huggingface.co/1024m
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=3000&random=false&width=435&height=32&lines=%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B;%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B;%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B%EF%B8%8F%E2%AC%9B)](https://www.rkadiyala.com)     
